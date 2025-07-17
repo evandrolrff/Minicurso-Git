@@ -1,4 +1,4 @@
-## Atividade 2 - Git Local
+## ✅ Atividade 2 - Git Local
 1. Crie um repositório com `git init`.
 2. Adicione e versione alguns arquivos.
     ```bash
